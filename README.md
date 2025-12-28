@@ -28,6 +28,8 @@ I focus on delivering clean UI, intuitive UX, and scalable web solutions.
 * ✉️  You can contact me at [supanat.extra@gmail.com](mailto:supanat.extra@gmail.com)
 * 💬  Ask me about My superpower is debugging
 
+### Skills
+
 <p align="left">
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
