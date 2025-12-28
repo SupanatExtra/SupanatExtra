@@ -1,11 +1,8 @@
-## Hi there 👋
+## Hi there 👋 My name is Supanat Sripo
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0anJsb2hobHFnNHM2OHN5M2w4aHIwZThveW44ZzhxdHFoNWYyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="100"/>
 </div>
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Supanat Sripo
-======================================================================================================================================
 
 Frontend Developer | Web Application Developer
 ----------------------------------------------
