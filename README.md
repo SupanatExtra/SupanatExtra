@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Supanat Sripo
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0anJsb2hobHFnNHM2OHN5M2w4aHIwZThveW44ZzhxdHFoNWYyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0anJsb2hobHFnNHM2OHN5M2w4aHIwZThveW44ZzhxdHFoNWYyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="200"/>
 </div>
 
 Frontend Developer | Web Application Developer
