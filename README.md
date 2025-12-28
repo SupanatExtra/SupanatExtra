@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0anJsb2hobHFnNHM2OHN5M2w4aHIwZThveW44ZzhxdHFoNWYyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pj7sqBo39R1jCZLZqj/giphy.gif" width="100"/>
+</div>
+
 <!--
 **SupanatExtra/SupanatExtra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
